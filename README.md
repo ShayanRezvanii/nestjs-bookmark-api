@@ -95,4 +95,4 @@ JWT_REFRESH_SECRET=refresh-secret
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Shayan RezvaniS]
